@@ -2,7 +2,7 @@ import random
 
 def gamewin(you,me):
     if you == me:
-        return none
+        return None
     elif you == 's':
         if me == 'c':
        return false
